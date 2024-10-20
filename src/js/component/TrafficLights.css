@@ -1,0 +1,33 @@
+.stem {
+width: 15px;
+height 70px;
+background-color: maroon;
+margin: auto;
+}
+
+.traffic-Light-body {
+width: 100px;
+height: 250px;
+background-color: black;
+margin: auto;
+border-radius: 15px;
+}
+
+
+.red {
+    width: 80px;
+    height: 80px;
+    background-color: red;
+}
+
+.yellow {
+    width: 80px;
+    height: 80px;
+    background-color: yellow;
+
+}
+.green {
+     width: 80px;
+     height: 80px;
+     background-color: green;
+}
